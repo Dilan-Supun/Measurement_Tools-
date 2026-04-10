@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Application_Developments\\SupunK_personal\\2026\\4.Tools_Developments\\100.temptest\\Fluke8808AGui.tar\\Fluke8808AGui\\Fluke8808AGui.csproj": {}
+  },
+  "projects": {
+    "D:\\Application_Developments\\SupunK_personal\\2026\\4.Tools_Developments\\100.temptest\\Fluke8808AGui.tar\\Fluke8808AGui\\Fluke8808AGui.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Application_Developments\\SupunK_personal\\2026\\4.Tools_Developments\\100.temptest\\Fluke8808AGui.tar\\Fluke8808AGui\\Fluke8808AGui.csproj",
+        "projectName": "Fluke8808AGui",
+        "projectPath": "D:\\Application_Developments\\SupunK_personal\\2026\\4.Tools_Developments\\100.temptest\\Fluke8808AGui.tar\\Fluke8808AGui\\Fluke8808AGui.csproj",
+        "packagesPath": "C:\\Users\\clkkusu02\\.nuget\\packages\\",
+        "outputPath": "D:\\Application_Developments\\SupunK_personal\\2026\\4.Tools_Developments\\100.temptest\\Fluke8808AGui.tar\\Fluke8808AGui\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\clkkusu02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
